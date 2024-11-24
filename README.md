@@ -5,7 +5,7 @@
  <li>Azure/Cloud Cybersecurity Project</li>
  
 - [Creating a Live SOC/ Honeynet in Azure](https://github.com/RandyGeorgeRKG/-Blue-Cloud-Soc)
-- Vulnerability Management with Nessus (https://github.com/RandyGeorgeRKG/Vulnerability-Management-)
+- [Vulnerability Management with Nessus](https://github.com/RandyGeorgeRKG/Vulnerability-Management-)
 
 
 
