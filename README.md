@@ -2,7 +2,7 @@
 
 - <h2> My Blue Team Projects :</h2>
 
- <li>Azure/Cloud Cybersecurity Project</li>
+ <li>Cloud/Virtualization Cybersecurity Project</li>
  
 - [Creating a Live SOC/ Honeynet in Azure](https://github.com/RandyGeorgeRKG/-Blue-Cloud-Soc)
 
