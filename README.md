@@ -2,7 +2,7 @@
 
 - <h2> Cloud/Virtualization Cybersecurity Projects:</h2>
  
-- [Creating a Live SOC/ Honeynet in Azure](https://github.com/RandyGeorgeRKG/-Blue-Cloud-Soc)
+- [Creating a Live SOC/ Honeynet in (Azure)](https://github.com/RandyGeorgeRKG/-Blue-Cloud-Soc)
 
 
   
