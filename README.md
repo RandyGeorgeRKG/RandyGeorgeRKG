@@ -17,7 +17,3 @@
 
 
 
-
-- <h2> Python Coding pratice:</h2>
-- [Python Code for automation](https://github.com/RandyGeorgeRKG/PythonAutomation/blob/main/Python%20Code%20for%20automation)
-
