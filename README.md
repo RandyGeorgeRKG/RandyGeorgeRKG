@@ -2,9 +2,9 @@
 
 
 
-- <h2> SOAR EDR Project ☁️:</h2>
+- <h2> 👾SOAR EDR Project 👾:</h2>
 
-- [Creating a SOAR EDR Project)](https://github.com/RandyGeorgeRKG/-Blue-Cloud-Soc)
+- [Creating a SOAR EDR Project(LimaCharlie))](https://github.com/RandyGeorgeRKG/-Blue-Cloud-Soc)
   
 - <h2> Cloud/Virtualization Cybersecurity Projects☁️:</h2>
  
