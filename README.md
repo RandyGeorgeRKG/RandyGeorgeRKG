@@ -6,15 +6,15 @@
 
 - [Creating a SOAR EDR Project(LimaCharlie/Tines)](https://github.com/RandyGeorgeRKG/-Blue-Cloud-Soc)
   
-- <h2> Cloud/Virtualization Cybersecurity Projects☁️:</h2>
+- <h2> ☁️Cloud/Virtualization Cybersecurity Projects☁️:</h2>
  
-- [Creating a Live SOC/ Honeynet in (Azure)](https://github.com/RandyGeorgeRKG/-Blue-Cloud-Soc)
+- [🍯Creating a Live SOC/ Honeynet in (Azure)🦡](https://github.com/RandyGeorgeRKG/-Blue-Cloud-Soc)
 
 
   
-- [Vulnerability Management with (Nessus)](https://github.com/RandyGeorgeRKG/Vulnerability-Management-)
+- [⚠️Vulnerability Management with (Nessus)⚠️](https://github.com/RandyGeorgeRKG/Vulnerability-Management-)
 
-- [Creating an Active Directory Enviornment Lab enviornment (Security Focus)](https://github.com/RandyGeorgeRKG/Active-Directory-Security/blob/main/README.md)
+- [↗️Creating an Active Directory Enviornment Lab enviornment (Security Focus)↗️](https://github.com/RandyGeorgeRKG/Active-Directory-Security/blob/main/README.md)
 
 
 
