@@ -16,7 +16,7 @@
 
 
 
-- <h2> Cyber Tools⚙️:</h2>
+- <h2> Cyber Malware Tricks⚙️:</h2>
 - [Creating a Key logger that automatically sends Emails (⚠️Warning for Educational Purposes Only⚠️)](https://github.com/RandyGeorgeRKG/KeyloggerProject/blob/main/README.md)
 
 
