@@ -19,7 +19,7 @@
 
 
 - <h2> Cyber Malware Tricks⚙️:</h2>
-- [Creating a (Keylogger) that automatically sends Emails and VirusTotal](https://github.com/RandyGeorgeRKG/KeyloggerProject/blob/main/README.md)
+- [🔑Creating a (Keylogger) that automatically sends Emails and VirusTotal🔐](https://github.com/RandyGeorgeRKG/KeyloggerProject/blob/main/README.md)
 
 
 
