@@ -4,7 +4,7 @@
 
 - <h2> 👾SOAR EDR Project 👾:</h2>
 
-- [🐧Creating a SOAR EDR Project(LimaCharlie/Tines)🐧](https://github.com/RandyGeorgeRKG/SOAR-EDR).
+- [🟪Creating a SOAR EDR Project(LimaCharlie/Tines⏹️)](https://github.com/RandyGeorgeRKG/SOAR-EDR).
   
 - <h2> ☁️Cloud/Virtualization Cybersecurity Projects☁️:</h2>
  
