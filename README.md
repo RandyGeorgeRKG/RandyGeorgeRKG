@@ -1,5 +1,6 @@
 <h1>Howdy, Randy Here! Offensive and defensive Cybersecurity Specalist <br/></a></h1>
 
+- <h2> 🐲Reverse Engineering Wannacry(Ransomware)🔒 with Gihdra(Malware Analysis Tool)🐲 :</h2>
 
 
 - <h2> SOAR EDR Project 👾:</h2>
